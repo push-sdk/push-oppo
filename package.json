@@ -1,0 +1,36 @@
+{
+  "name": "push-oppo",
+  "version": "0.0.1",
+  "description": "push-oppo",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "0.18.0",
+    "querystring": "0.2.0",
+    "lodash": "4.17.11"
+  },
+  "devDependencies": {
+    
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": { 
+    "type" : "git", 
+    "url" : "https://github.com/iamtang/push-oppo.git"
+  },
+  "keywords": [
+    "koa",
+    "oppo",
+    "push-oppo",
+    "push"
+  ],
+  "engines": {
+    "node": ">=8.0.0"
+  },
+  "bugs": {
+    "url": "https://github.com/iamtang/push-oppo/issues",
+    "email": "303907720@qq.com"
+  },
+  "author": "JJ",
+  "license": "MIT"
+}
