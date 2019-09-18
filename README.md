@@ -23,7 +23,7 @@ npm install push-oppo --save-dev
 ```javascript
 const Oppo = require('push-oppo');
 const oppo = new Oppo({
-  appkey: 'appkey',
+  appKey: 'appKey',
   masterSecret: 'masterSecret'
 });
 
